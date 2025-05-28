@@ -1,6 +1,6 @@
 # programming2
 
-This repository contains my final project for the *Programmazione 2* course.
+This repository contains my “Programmazione 2” course final project
 
 ## Overview
 
